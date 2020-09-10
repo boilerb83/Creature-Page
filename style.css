@@ -1,0 +1,61 @@
+body
+{
+    margin:0;
+    padding:0;
+    background-color: rgb(100, 183, 255);
+    
+    
+}
+
+#header{
+    text-align: right;
+    padding: 20px 10px;
+    background-color: white;
+}
+
+#inputDiv{
+    width: 300 px;
+    position: relative;
+    margin: auto;
+    padding: 30px 25px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5 px;
+    box-shadow: 4px 4px 12px darkgrey;
+}
+
+
+
+
+/*
+.border-style li{
+    margin: 20px;
+}
+
+.nav{
+    position: center;
+    top: 0;
+    right: 0;
+    width: 250px;
+    background-color: lightgray;
+    border: 3px solid navy;
+}
+
+#Email{
+   text-align:center; 
+   position: center;
+   top: 0;
+   right: 0;
+   width: 250px;
+}
+
+#Submit{
+    position: center;
+    top: 0;
+    right: 0;
+    width: 250px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    width: viewport-fit; 
+}; 
